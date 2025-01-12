@@ -1,0 +1,15 @@
+   # Ignore configuration files
+   *.cfg
+
+   # Ignore weights files
+   *.weights
+
+   # Ignore virtual environment directory
+   .venv/
+
+   # Ignore node_modules directory
+   node_modules/
+
+   images/
+
+   *.env
