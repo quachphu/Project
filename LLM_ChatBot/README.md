@@ -72,16 +72,12 @@ In the sidebar, you can:
 ## Project Structure
 
 ```
-LangChain/
-└── LLM_ChatBot/
-    └── OLLAMA/
-        ├── app.py              # Alternative app version
-        ├── app2.py             # Alternative app version
-        ├── app3.py             # Alternative app version
-        ├── HistoryChatBot.py   # Main application file
-        └── .env                # Environment variables (optional)
-├── requirements.txt            # Python dependencies
-└── README.md                   # This file
+PJ1-LLM_ChatBot/
+├── venv/                    # Virtual environment folder (not included in repo)
+├── .env                     # Environment variables file (not included in repo)
+├── HistoryChatBot.py        # Main application file
+├── requirements.txt         # Python dependencies
+└── README.md                # This file
 ```
 
 ## Dependencies
