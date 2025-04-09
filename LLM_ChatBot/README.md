@@ -1,6 +1,7 @@
 # Ollama Chat Assistant
-![Chat Interface Screenshot](images/ChatBot1.png)
 ![Chat Interface Screenshot](images/ChatBot.png)
+
+![Chat Interface Screenshot](images/ChatBot1.png)
 
 A sleek, modern chat interface for interacting with Ollama language models, built with Streamlit and LangChain. This application provides a user-friendly way to chat with locally hosted language models through Ollama.
 
