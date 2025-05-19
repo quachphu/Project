@@ -1,0 +1,20 @@
+{
+    "args": {
+        "model_name": "bert-base-uncased",
+        "max_len": 128,
+        "batch_size": 16,
+        "epochs": 2,
+        "learning_rate": 2e-05,
+        "weight_decay": 0.01,
+        "warmup_ratio": 0.1,
+        "seed": 42,
+        "early_stopping_patience": 2,
+        "use_focal_loss": false
+    },
+    "metrics": {
+        "accuracy": 0.904,
+        "precision": 0.8970125786163522,
+        "recall": 0.9128,
+        "f1_score": 0.9048374306106265,
+        "specificity": 0.8952,
+        "true_positives": 
