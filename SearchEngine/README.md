@@ -1,3 +1,5 @@
+Web App Link: https://search-engine-app.streamlit.app/ 
+
 ```mermaid
 flowchart LR
   AB["User opens Streamlit app and enters Groq API key in sidebar"] --> C{"Is API key in session_state?"}
