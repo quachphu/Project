@@ -217,8 +217,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: your.email@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/yourusername/nvidia-rag-assistant/issues)
+- 📧 Email: quachphuwork@gmail.com
+- 💬 Issues: [GitHub Issues](https://github.com/features/issues)
 - 📖 Documentation: [Wiki](https://github.com/yourusername/nvidia-rag-assistant/wiki)
 
 ## 🚀 What's Next?
@@ -234,4 +234,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repo if you find it helpful!** ⭐
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Phu Quach](https://github.com/quachphu)
