@@ -1,0 +1,12 @@
+streamlit==1.39.0
+requests==2.32.3
+fastapi==0.115.0
+uvicorn==0.32.0
+pydantic==2.9.2
+
+# Google ADK and AI Platform for agent integration
+google-adk>=1.14.0
+google-cloud-aiplatform>=1.116.0
+google-auth>=2.0.0
+vertexai>=1.0.0
+
